@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32776e57-f2cc-4c5f-ac34-293804a4338e" name="Changes" comment="List methods">
-      <change afterPath="$PROJECT_DIR$/tuple.py" afterDir="false" />
+    <list default="true" id="32776e57-f2cc-4c5f-ac34-293804a4338e" name="Changes" comment="tuple methods">
+      <change afterPath="$PROJECT_DIR$/set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.list.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.set.executor": "Run",
     "Python.tuple.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -109,11 +110,20 @@
       <option name="project" value="LOCAL" />
       <updated>1780638886089</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="tuple methods">
+      <option name="closed" value="true" />
+      <created>1780722472968</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780722472968</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="List methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="List methods" />
+    <MESSAGE value="tuple methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="tuple methods" />
   </component>
 </project>
