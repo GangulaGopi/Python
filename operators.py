@@ -63,3 +63,6 @@ a=10
 b=10
 print(a is b)
 print (a is not b)
+a=10
+b=20
+print(a is b)
