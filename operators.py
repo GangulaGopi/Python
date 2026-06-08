@@ -47,3 +47,19 @@ print(a and b)
 print(a or b)
 print(not a)
 print(not b)
+# bitwise operators-it checks with the binary form and returns the answer simply works on binary values
+a=5
+b=3
+print(a&b)
+print(a|b)
+print(a<<b) #left shit
+print(a>>b) # right shift
+# membership operators-it checks whether the elements present or not
+a=["gopi","praneeth","babu"]
+print("gopi" in a)
+print("gopi"  not in a)
+# Identity -Check whether two variables refer to the same object
+a=10
+b=10
+print(a is b)
+print (a is not b)
