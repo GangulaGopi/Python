@@ -4,7 +4,7 @@
 # Assignment Operators	 =, +=, -=
 # Comparison Operators	 ==, !=, >
 # Logical Operators	     and, or, not
-# Bitwise Operators	     &, ^
+# Bitwise Operators	     &, |
 # Membership Operators   in, not in
 # Identity Operators	 is, is not
 # Arithmetic Operators -it is used to perform mathematical calculations
@@ -33,3 +33,17 @@ print(x)
 x=20
 x*=2
 print(x)
+# comparison operators -it is used to compare the values
+print(a==b)
+print(a!=b)
+print(a>b)
+print(a<b)
+print(a>=b)
+print(a<=b)
+# logical operators -it is used between the conditions
+a=1
+b=0
+print(a and b)
+print(a or b)
+print(not a)
+print(not b)
