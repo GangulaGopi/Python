@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32776e57-f2cc-4c5f-ac34-293804a4338e" name="Changes" comment="set methods">
-      <change afterPath="$PROJECT_DIR$/dictionary.py" afterDir="false" />
+    <list default="true" id="32776e57-f2cc-4c5f-ac34-293804a4338e" name="Changes" comment="dict methods">
+      <change afterPath="$PROJECT_DIR$/data types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.data types.executor": "Run",
     "Python.dictionary.executor": "Run",
     "Python.list.executor": "Run",
     "Python.main.executor": "Run",
@@ -126,13 +128,22 @@
       <option name="project" value="LOCAL" />
       <updated>1780723139885</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="dict methods">
+      <option name="closed" value="true" />
+      <created>1780723789689</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1780723789689</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="List methods" />
     <MESSAGE value="tuple methods" />
     <MESSAGE value="set methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="set methods" />
+    <MESSAGE value="dict methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="dict methods" />
   </component>
 </project>
