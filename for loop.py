@@ -13,7 +13,9 @@ for i in ["Gopi",18,59.50]:
 #     print(i)
 # for i in range(10): # when we give only one argument then it take it as end
 #     print(i)
-for i in range(10,-1): # when we give like this it doesn't provide output  becuase of reverse indexing we need to specify start,end and step count
-    print(i)
+# for i in range(10,-1): # when we give like this it doesn't provide output  becuase of reverse indexing we need to specify start,end and step count
+#     print(i)
 for i in range(10,1,-1):
     print(i)
+    for j in range(10, 1, -1):
+        print(j)
