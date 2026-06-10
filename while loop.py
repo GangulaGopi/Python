@@ -1,5 +1,9 @@
 # looping statements - while,for
 # while - A while loop in Python is used to repeat a block of code as long as a condition is True.
+# i = 1
+#
+# while i <= 5:
+#     print(i) # it is the infinite loop becuase we are not incrementing the i value
 # i=1
 # while i<=5:
 #     print(i)
@@ -10,7 +14,7 @@
 #     print(i,end=" ")
 #     i+=1
 # nested while loop -loop with in a loop
-import sys;
+
 i=1
 while i<=5:
     print("gopi",end=" ")
