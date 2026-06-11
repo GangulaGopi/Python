@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32776e57-f2cc-4c5f-ac34-293804a4338e" name="Changes" comment="control statements">
-      <change afterPath="$PROJECT_DIR$/square pattern.py" afterDir="false" />
+    <list default="true" id="32776e57-f2cc-4c5f-ac34-293804a4338e" name="Changes" comment=" different patterns on square">
+      <change afterPath="$PROJECT_DIR$/triangle pattern.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
     "Python.set.executor": "Run",
     "Python.square pattern.executor": "Run",
     "Python.swapping.executor": "Run",
+    "Python.triangle pattern.executor": "Run",
     "Python.tuple.executor": "Run",
     "Python.while loop.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -294,7 +295,31 @@
       <option name="project" value="LOCAL" />
       <updated>1781156008227</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="patterns on square">
+      <option name="closed" value="true" />
+      <created>1781158612501</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1781158612501</updated>
+    </task>
+    <task id="LOCAL-00024" summary="patterns on square">
+      <option name="closed" value="true" />
+      <created>1781159263081</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1781159263081</updated>
+    </task>
+    <task id="LOCAL-00025" summary=" different patterns on square">
+      <option name="closed" value="true" />
+      <created>1781159457288</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1781159457288</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -310,6 +335,8 @@
     <MESSAGE value="while loop statements" />
     <MESSAGE value="for loop statements" />
     <MESSAGE value="control statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="control statements" />
+    <MESSAGE value="patterns on square" />
+    <MESSAGE value=" different patterns on square" />
+    <option name="LAST_COMMIT_MESSAGE" value=" different patterns on square" />
   </component>
 </project>
