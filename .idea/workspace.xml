@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32776e57-f2cc-4c5f-ac34-293804a4338e" name="Changes" comment="while loop statements">
-      <change afterPath="$PROJECT_DIR$/for loop.py" afterDir="false" />
+    <list default="true" id="32776e57-f2cc-4c5f-ac34-293804a4338e" name="Changes" comment="for loop statements">
+      <change afterPath="$PROJECT_DIR$/control statements.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.control statements.executor": "Run",
     "Python.data types.executor": "Run",
     "Python.dictionary.executor": "Run",
     "Python.for loop.executor": "Run",
@@ -260,7 +261,23 @@
       <option name="project" value="LOCAL" />
       <updated>1781073367810</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="for loop statements">
+      <option name="closed" value="true" />
+      <created>1781074752420</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1781074752420</updated>
+    </task>
+    <task id="LOCAL-00020" summary="for loop statements">
+      <option name="closed" value="true" />
+      <created>1781074824328</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1781074824328</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -274,6 +291,7 @@
     <MESSAGE value="swapping to numbers" />
     <MESSAGE value="conditional statements" />
     <MESSAGE value="while loop statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="while loop statements" />
+    <MESSAGE value="for loop statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="for loop statements" />
   </component>
 </project>
