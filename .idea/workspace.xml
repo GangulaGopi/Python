@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32776e57-f2cc-4c5f-ac34-293804a4338e" name="Changes" comment="for loop statements">
-      <change afterPath="$PROJECT_DIR$/control statements.py" afterDir="false" />
+    <list default="true" id="32776e57-f2cc-4c5f-ac34-293804a4338e" name="Changes" comment="control statements">
+      <change afterPath="$PROJECT_DIR$/square pattern.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,7 @@
     "Python.math.executor": "Run",
     "Python.operators.executor": "Run",
     "Python.set.executor": "Run",
+    "Python.square pattern.executor": "Run",
     "Python.swapping.executor": "Run",
     "Python.tuple.executor": "Run",
     "Python.while loop.executor": "Run",
@@ -277,7 +278,23 @@
       <option name="project" value="LOCAL" />
       <updated>1781074824328</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="control statements">
+      <option name="closed" value="true" />
+      <created>1781155742964</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1781155742964</updated>
+    </task>
+    <task id="LOCAL-00022" summary="control statements">
+      <option name="closed" value="true" />
+      <created>1781156008227</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1781156008227</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -292,6 +309,7 @@
     <MESSAGE value="conditional statements" />
     <MESSAGE value="while loop statements" />
     <MESSAGE value="for loop statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="for loop statements" />
+    <MESSAGE value="control statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="control statements" />
   </component>
 </project>
