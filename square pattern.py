@@ -21,7 +21,29 @@
 # for i in range(5):
 #     print("1 "*5)
 
-for i in range(5):
+# for i in range(5):
+#     for j in range(5):
+#          print(1,end=" ")
+#     print()
+
+# using alphabets
+# n=5
+# for i in range(65,70):
+#     for j in range(5):
+#          print(chr(i),end=" ")
+#     print()
+# n=5
+# num=65
+# for i in range(n):
+#     for j in range(5):
+#          print(chr(num),end=" ")
+#          num+=1
+#     print()
+# using numbers
+n=5
+num=1
+for i in range(n):
     for j in range(5):
-         print(1,end=" ")
+         print(num,end=" ")
+         num+=1
     print()
