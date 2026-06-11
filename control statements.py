@@ -22,9 +22,22 @@
 # using for loop
 # for i in range(1,10):
 #     if i==5:
-#         break
+#         break #it breaks the loops and stops the execution
+#     print(i)
+# for i in range(1,10):
+#     if i==5:
+#         continue # it skips the particular i==5 statement and continue the loop execution
+#     print(i)
+
+# for i in range(1,10):
+#     if i==5:
+#         pass # it does nothing
+#     print(i)
+# for i in range(1,10):
+#     if i%2==0:
+#         continue
 #     print(i)
 for i in range(1,10):
-    if i==5:
+    if i%2==1:
         continue
     print(i)
