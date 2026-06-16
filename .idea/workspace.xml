@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32776e57-f2cc-4c5f-ac34-293804a4338e" name="Changes" comment=" for else loop" />
+    <list default="true" id="32776e57-f2cc-4c5f-ac34-293804a4338e" name="Changes" comment=" prime number" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +57,7 @@
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.math.executor&quot;: &quot;Run&quot;,
     &quot;Python.operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime number.executor&quot;: &quot;Run&quot;,
     &quot;Python.set.executor&quot;: &quot;Run&quot;,
     &quot;Python.square pattern.executor&quot;: &quot;Run&quot;,
     &quot;Python.swapping.executor&quot;: &quot;Run&quot;,
@@ -349,7 +350,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781453856956</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary=" prime number">
+      <option name="closed" value="true" />
+      <created>1781538833234</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1781538833234</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -369,6 +378,7 @@
     <MESSAGE value=" different patterns on square" />
     <MESSAGE value=" different patterns on triangles" />
     <MESSAGE value=" for else loop" />
-    <option name="LAST_COMMIT_MESSAGE" value=" for else loop" />
+    <MESSAGE value=" prime number" />
+    <option name="LAST_COMMIT_MESSAGE" value=" prime number" />
   </component>
 </project>
