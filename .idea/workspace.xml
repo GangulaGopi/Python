@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32776e57-f2cc-4c5f-ac34-293804a4338e" name="Changes" comment="for else loop" />
+    <list default="true" id="32776e57-f2cc-4c5f-ac34-293804a4338e" name="Changes" comment="even or odd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -423,7 +423,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782135325936</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="even or odd">
+      <option name="closed" value="true" />
+      <created>1782135447473</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1782135447473</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -446,6 +454,7 @@
     <MESSAGE value=" prime number" />
     <MESSAGE value=" finding even or odd" />
     <MESSAGE value="for else loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="for else loop" />
+    <MESSAGE value="even or odd" />
+    <option name="LAST_COMMIT_MESSAGE" value="even or odd" />
   </component>
 </project>
